@@ -1,0 +1,13 @@
+# Bundled Chromium build (293 MB) — do not commit
+chrome-win32/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets — keep credentials local, never commit
+instaUserInfo.py
+
+# Runtime artifacts
+screenshot.png
+followings.txt
